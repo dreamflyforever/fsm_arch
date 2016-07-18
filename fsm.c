@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*state name*/
-enum State {
+enum state {
 	ST1, ST2, ST3, ST4, ST5
 };
 
